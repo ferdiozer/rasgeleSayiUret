@@ -1,0 +1,11 @@
+C:\Users\Ferdi\Desktop\nyp\example\rasgele_sayi_uret_RANDOM\rasgele_sayi_uret_RANDOM\bin\Debug\rasgele_sayi_uret_RANDOM.exe.config
+C:\Users\Ferdi\Desktop\nyp\example\rasgele_sayi_uret_RANDOM\rasgele_sayi_uret_RANDOM\obj\Debug\rasgele_sayi_uret_RANDOM.Form1.resources
+C:\Users\Ferdi\Desktop\nyp\example\rasgele_sayi_uret_RANDOM\rasgele_sayi_uret_RANDOM\obj\Debug\rasgele_sayi_uret_RANDOM.Properties.Resources.resources
+C:\Users\Ferdi\Desktop\nyp\example\rasgele_sayi_uret_RANDOM\rasgele_sayi_uret_RANDOM\obj\Debug\rasgele_sayi_uret_RANDOM.csproj.GenerateResource.Cache
+C:\Users\Ferdi\Desktop\nyp\example\rasgele_sayi_uret_RANDOM\rasgele_sayi_uret_RANDOM\bin\Debug\rasgele_sayi_uret_RANDOM.exe
+C:\Users\Ferdi\Desktop\nyp\example\rasgele_sayi_uret_RANDOM\rasgele_sayi_uret_RANDOM\bin\Debug\rasgele_sayi_uret_RANDOM.pdb
+C:\Users\Ferdi\Desktop\nyp\example\rasgele_sayi_uret_RANDOM\rasgele_sayi_uret_RANDOM\obj\Debug\rasgele_sayi_uret_RANDOM.exe
+C:\Users\Ferdi\Desktop\nyp\example\rasgele_sayi_uret_RANDOM\rasgele_sayi_uret_RANDOM\obj\Debug\rasgele_sayi_uret_RANDOM.pdb
+C:\Users\Ferdi\Desktop\rasgeleSayiUret\rasgele_sayi_uret_RANDOM\bin\Debug\rasgele_sayi_uret_RANDOM.exe.config
+C:\Users\Ferdi\Desktop\rasgeleSayiUret\rasgele_sayi_uret_RANDOM\obj\Debug\rasgele_sayi_uret_RANDOM.exe
+C:\Users\Ferdi\Desktop\rasgeleSayiUret\rasgele_sayi_uret_RANDOM\obj\Debug\rasgele_sayi_uret_RANDOM.pdb
